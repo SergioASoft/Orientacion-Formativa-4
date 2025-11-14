@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(119, 153, 237);
+    margin: auto;
+    padding: 0;    
+}
+
+.descripcion{
+    padding: 5%;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    border-color: rgb(0, 0, 95);
+    width: 60vw;
+    margin: auto;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.descripcion.h2{
+        font-size: 12rem;
+        color: rgb(0, 0, 65);
+    }
+.descripcion.p{
+        font-size: 8rem;
+        color: black;
+    }
